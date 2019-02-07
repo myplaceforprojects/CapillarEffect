@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\bin\Debug\netcoreapp2.0\csharpApplication.deps.json
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\bin\Debug\netcoreapp2.0\csharpApplication.runtimeconfig.json
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\bin\Debug\netcoreapp2.0\csharpApplication.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\bin\Debug\netcoreapp2.0\csharpApplication.dll
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\bin\Debug\netcoreapp2.0\csharpApplication.pdb
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.dll
+C:\Users\ASUS\Downloads\Архив\ostanovka10syt\csharpApplication\obj\Debug\netcoreapp2.0\csharpApplication.pdb

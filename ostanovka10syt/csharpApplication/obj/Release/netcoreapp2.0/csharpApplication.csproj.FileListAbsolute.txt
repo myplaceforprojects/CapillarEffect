@@ -1,0 +1,33 @@
+/Users/r.belov/Projects/csharpApplication/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.deps.json
+/Users/r.belov/Projects/csharpApplication/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.json
+/Users/r.belov/Projects/csharpApplication/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.dev.json
+/Users/r.belov/Projects/csharpApplication/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.dll
+/Users/r.belov/Projects/csharpApplication/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.pdb
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csprojResolveAssemblyReference.cache
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csproj.CoreCompileInputs.cache
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfoInputs.cache
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfo.cs
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.dll
+/Users/r.belov/Projects/csharpApplication/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.pdb
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.deps.json
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.json
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.dev.json
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.dll
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.pdb
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csprojResolveAssemblyReference.cache
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csproj.CoreCompileInputs.cache
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfoInputs.cache
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfo.cs
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.dll
+/Users/kseniaastrebkova/Desktop/остановка 10сут/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.pdb
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.deps.json
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.json
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.runtimeconfig.dev.json
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.dll
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/bin/Release/netcoreapp2.0/csharpApplication.pdb
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csprojResolveAssemblyReference.cache
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.csproj.CoreCompileInputs.cache
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfoInputs.cache
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.AssemblyInfo.cs
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.dll
+/Users/kseniaastrebkova/Desktop/ostanovka10syt/csharpApplication/obj/Release/netcoreapp2.0/csharpApplication.pdb
